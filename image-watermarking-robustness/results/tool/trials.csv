@@ -1,0 +1,1135 @@
+image,method,key,attack,recovered,detected
+coffee,LSB,key-A,none,1,1
+coffee,LSB,key-A,JPEG q=90,0,0
+coffee,LSB,key-A,JPEG q=75,0,0
+coffee,LSB,key-A,JPEG q=50,0,0
+coffee,LSB,key-A,Noise sigma=3,0,0
+coffee,LSB,key-A,Noise sigma=8,0,0
+coffee,LSB,key-A,Resize 0.5x round trip,0,0
+coffee,LSB,key-A,Median 3x3,0,0
+coffee,LSB,key-A,Gaussian blur r=1,0,0
+coffee,LSB,key-A,Brightness +20,1,1
+coffee,LSB,key-A,Contrast x0.9,0,0
+coffee,LSB,key-A,Blank 25% area,0,1
+coffee,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+coffee,LSB,key-A,Crop 5% border,0,0
+coffee,LSB,key-B,none,1,1
+coffee,LSB,key-B,JPEG q=90,0,0
+coffee,LSB,key-B,JPEG q=75,0,0
+coffee,LSB,key-B,JPEG q=50,0,0
+coffee,LSB,key-B,Noise sigma=3,0,0
+coffee,LSB,key-B,Noise sigma=8,0,0
+coffee,LSB,key-B,Resize 0.5x round trip,0,0
+coffee,LSB,key-B,Median 3x3,0,0
+coffee,LSB,key-B,Gaussian blur r=1,0,0
+coffee,LSB,key-B,Brightness +20,1,1
+coffee,LSB,key-B,Contrast x0.9,0,0
+coffee,LSB,key-B,Blank 25% area,0,0
+coffee,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+coffee,LSB,key-B,Crop 5% border,0,0
+coffee,LSB,key-C,none,1,1
+coffee,LSB,key-C,JPEG q=90,0,0
+coffee,LSB,key-C,JPEG q=75,0,0
+coffee,LSB,key-C,JPEG q=50,0,0
+coffee,LSB,key-C,Noise sigma=3,0,0
+coffee,LSB,key-C,Noise sigma=8,0,0
+coffee,LSB,key-C,Resize 0.5x round trip,0,0
+coffee,LSB,key-C,Median 3x3,0,0
+coffee,LSB,key-C,Gaussian blur r=1,0,0
+coffee,LSB,key-C,Brightness +20,0,1
+coffee,LSB,key-C,Contrast x0.9,0,0
+coffee,LSB,key-C,Blank 25% area,0,1
+coffee,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+coffee,LSB,key-C,Crop 5% border,0,0
+coffee,DCT,key-A,none,1,1
+coffee,DCT,key-A,JPEG q=90,1,1
+coffee,DCT,key-A,JPEG q=75,1,1
+coffee,DCT,key-A,JPEG q=50,1,1
+coffee,DCT,key-A,Noise sigma=3,1,1
+coffee,DCT,key-A,Noise sigma=8,1,1
+coffee,DCT,key-A,Resize 0.5x round trip,1,1
+coffee,DCT,key-A,Median 3x3,1,1
+coffee,DCT,key-A,Gaussian blur r=1,0,1
+coffee,DCT,key-A,Brightness +20,1,1
+coffee,DCT,key-A,Contrast x0.9,1,1
+coffee,DCT,key-A,Blank 25% area,1,1
+coffee,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+coffee,DCT,key-A,Crop 5% border,0,0
+coffee,DCT,key-B,none,1,1
+coffee,DCT,key-B,JPEG q=90,1,1
+coffee,DCT,key-B,JPEG q=75,1,1
+coffee,DCT,key-B,JPEG q=50,1,1
+coffee,DCT,key-B,Noise sigma=3,1,1
+coffee,DCT,key-B,Noise sigma=8,1,1
+coffee,DCT,key-B,Resize 0.5x round trip,1,1
+coffee,DCT,key-B,Median 3x3,1,1
+coffee,DCT,key-B,Gaussian blur r=1,0,0
+coffee,DCT,key-B,Brightness +20,1,1
+coffee,DCT,key-B,Contrast x0.9,1,1
+coffee,DCT,key-B,Blank 25% area,1,1
+coffee,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+coffee,DCT,key-B,Crop 5% border,0,0
+coffee,DCT,key-C,none,1,1
+coffee,DCT,key-C,JPEG q=90,1,1
+coffee,DCT,key-C,JPEG q=75,1,1
+coffee,DCT,key-C,JPEG q=50,1,1
+coffee,DCT,key-C,Noise sigma=3,1,1
+coffee,DCT,key-C,Noise sigma=8,1,1
+coffee,DCT,key-C,Resize 0.5x round trip,1,1
+coffee,DCT,key-C,Median 3x3,1,1
+coffee,DCT,key-C,Gaussian blur r=1,0,0
+coffee,DCT,key-C,Brightness +20,1,1
+coffee,DCT,key-C,Contrast x0.9,1,1
+coffee,DCT,key-C,Blank 25% area,1,1
+coffee,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+coffee,DCT,key-C,Crop 5% border,0,0
+coffee,DWT,key-A,none,1,1
+coffee,DWT,key-A,JPEG q=90,1,1
+coffee,DWT,key-A,JPEG q=75,1,1
+coffee,DWT,key-A,JPEG q=50,1,1
+coffee,DWT,key-A,Noise sigma=3,1,1
+coffee,DWT,key-A,Noise sigma=8,1,1
+coffee,DWT,key-A,Resize 0.5x round trip,1,1
+coffee,DWT,key-A,Median 3x3,1,1
+coffee,DWT,key-A,Gaussian blur r=1,0,0
+coffee,DWT,key-A,Brightness +20,1,1
+coffee,DWT,key-A,Contrast x0.9,1,1
+coffee,DWT,key-A,Blank 25% area,1,1
+coffee,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+coffee,DWT,key-A,Crop 5% border,0,0
+coffee,DWT,key-B,none,1,1
+coffee,DWT,key-B,JPEG q=90,1,1
+coffee,DWT,key-B,JPEG q=75,1,1
+coffee,DWT,key-B,JPEG q=50,1,1
+coffee,DWT,key-B,Noise sigma=3,1,1
+coffee,DWT,key-B,Noise sigma=8,1,1
+coffee,DWT,key-B,Resize 0.5x round trip,1,1
+coffee,DWT,key-B,Median 3x3,1,1
+coffee,DWT,key-B,Gaussian blur r=1,0,0
+coffee,DWT,key-B,Brightness +20,1,1
+coffee,DWT,key-B,Contrast x0.9,1,1
+coffee,DWT,key-B,Blank 25% area,1,1
+coffee,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+coffee,DWT,key-B,Crop 5% border,0,0
+coffee,DWT,key-C,none,1,1
+coffee,DWT,key-C,JPEG q=90,1,1
+coffee,DWT,key-C,JPEG q=75,1,1
+coffee,DWT,key-C,JPEG q=50,1,1
+coffee,DWT,key-C,Noise sigma=3,1,1
+coffee,DWT,key-C,Noise sigma=8,1,1
+coffee,DWT,key-C,Resize 0.5x round trip,1,1
+coffee,DWT,key-C,Median 3x3,1,1
+coffee,DWT,key-C,Gaussian blur r=1,0,1
+coffee,DWT,key-C,Brightness +20,1,1
+coffee,DWT,key-C,Contrast x0.9,1,1
+coffee,DWT,key-C,Blank 25% area,1,1
+coffee,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+coffee,DWT,key-C,Crop 5% border,0,0
+chelsea,LSB,key-A,none,1,1
+chelsea,LSB,key-A,JPEG q=90,0,0
+chelsea,LSB,key-A,JPEG q=75,0,0
+chelsea,LSB,key-A,JPEG q=50,0,0
+chelsea,LSB,key-A,Noise sigma=3,0,0
+chelsea,LSB,key-A,Noise sigma=8,0,0
+chelsea,LSB,key-A,Resize 0.5x round trip,0,0
+chelsea,LSB,key-A,Median 3x3,0,0
+chelsea,LSB,key-A,Gaussian blur r=1,0,0
+chelsea,LSB,key-A,Brightness +20,1,1
+chelsea,LSB,key-A,Contrast x0.9,0,0
+chelsea,LSB,key-A,Blank 25% area,0,0
+chelsea,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+chelsea,LSB,key-A,Crop 5% border,0,0
+chelsea,LSB,key-B,none,1,1
+chelsea,LSB,key-B,JPEG q=90,0,0
+chelsea,LSB,key-B,JPEG q=75,0,0
+chelsea,LSB,key-B,JPEG q=50,0,0
+chelsea,LSB,key-B,Noise sigma=3,0,0
+chelsea,LSB,key-B,Noise sigma=8,0,0
+chelsea,LSB,key-B,Resize 0.5x round trip,0,0
+chelsea,LSB,key-B,Median 3x3,0,0
+chelsea,LSB,key-B,Gaussian blur r=1,0,0
+chelsea,LSB,key-B,Brightness +20,1,1
+chelsea,LSB,key-B,Contrast x0.9,0,0
+chelsea,LSB,key-B,Blank 25% area,0,0
+chelsea,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+chelsea,LSB,key-B,Crop 5% border,0,0
+chelsea,LSB,key-C,none,1,1
+chelsea,LSB,key-C,JPEG q=90,0,0
+chelsea,LSB,key-C,JPEG q=75,0,0
+chelsea,LSB,key-C,JPEG q=50,0,0
+chelsea,LSB,key-C,Noise sigma=3,0,0
+chelsea,LSB,key-C,Noise sigma=8,0,0
+chelsea,LSB,key-C,Resize 0.5x round trip,0,0
+chelsea,LSB,key-C,Median 3x3,0,0
+chelsea,LSB,key-C,Gaussian blur r=1,0,0
+chelsea,LSB,key-C,Brightness +20,1,1
+chelsea,LSB,key-C,Contrast x0.9,0,0
+chelsea,LSB,key-C,Blank 25% area,0,1
+chelsea,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+chelsea,LSB,key-C,Crop 5% border,0,0
+chelsea,DCT,key-A,none,1,1
+chelsea,DCT,key-A,JPEG q=90,1,1
+chelsea,DCT,key-A,JPEG q=75,1,1
+chelsea,DCT,key-A,JPEG q=50,1,1
+chelsea,DCT,key-A,Noise sigma=3,1,1
+chelsea,DCT,key-A,Noise sigma=8,0,1
+chelsea,DCT,key-A,Resize 0.5x round trip,1,1
+chelsea,DCT,key-A,Median 3x3,0,0
+chelsea,DCT,key-A,Gaussian blur r=1,0,0
+chelsea,DCT,key-A,Brightness +20,1,1
+chelsea,DCT,key-A,Contrast x0.9,1,1
+chelsea,DCT,key-A,Blank 25% area,1,1
+chelsea,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+chelsea,DCT,key-A,Crop 5% border,0,0
+chelsea,DCT,key-B,none,1,1
+chelsea,DCT,key-B,JPEG q=90,1,1
+chelsea,DCT,key-B,JPEG q=75,1,1
+chelsea,DCT,key-B,JPEG q=50,1,1
+chelsea,DCT,key-B,Noise sigma=3,1,1
+chelsea,DCT,key-B,Noise sigma=8,1,1
+chelsea,DCT,key-B,Resize 0.5x round trip,0,1
+chelsea,DCT,key-B,Median 3x3,0,0
+chelsea,DCT,key-B,Gaussian blur r=1,0,0
+chelsea,DCT,key-B,Brightness +20,1,1
+chelsea,DCT,key-B,Contrast x0.9,1,1
+chelsea,DCT,key-B,Blank 25% area,1,1
+chelsea,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+chelsea,DCT,key-B,Crop 5% border,0,0
+chelsea,DCT,key-C,none,1,1
+chelsea,DCT,key-C,JPEG q=90,1,1
+chelsea,DCT,key-C,JPEG q=75,1,1
+chelsea,DCT,key-C,JPEG q=50,1,1
+chelsea,DCT,key-C,Noise sigma=3,1,1
+chelsea,DCT,key-C,Noise sigma=8,0,1
+chelsea,DCT,key-C,Resize 0.5x round trip,1,1
+chelsea,DCT,key-C,Median 3x3,0,0
+chelsea,DCT,key-C,Gaussian blur r=1,0,0
+chelsea,DCT,key-C,Brightness +20,1,1
+chelsea,DCT,key-C,Contrast x0.9,1,1
+chelsea,DCT,key-C,Blank 25% area,1,1
+chelsea,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+chelsea,DCT,key-C,Crop 5% border,0,0
+chelsea,DWT,key-A,none,1,1
+chelsea,DWT,key-A,JPEG q=90,1,1
+chelsea,DWT,key-A,JPEG q=75,1,1
+chelsea,DWT,key-A,JPEG q=50,1,1
+chelsea,DWT,key-A,Noise sigma=3,1,1
+chelsea,DWT,key-A,Noise sigma=8,1,1
+chelsea,DWT,key-A,Resize 0.5x round trip,0,1
+chelsea,DWT,key-A,Median 3x3,0,0
+chelsea,DWT,key-A,Gaussian blur r=1,0,0
+chelsea,DWT,key-A,Brightness +20,1,1
+chelsea,DWT,key-A,Contrast x0.9,1,1
+chelsea,DWT,key-A,Blank 25% area,1,1
+chelsea,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+chelsea,DWT,key-A,Crop 5% border,0,0
+chelsea,DWT,key-B,none,1,1
+chelsea,DWT,key-B,JPEG q=90,1,1
+chelsea,DWT,key-B,JPEG q=75,1,1
+chelsea,DWT,key-B,JPEG q=50,1,1
+chelsea,DWT,key-B,Noise sigma=3,1,1
+chelsea,DWT,key-B,Noise sigma=8,1,1
+chelsea,DWT,key-B,Resize 0.5x round trip,0,1
+chelsea,DWT,key-B,Median 3x3,0,0
+chelsea,DWT,key-B,Gaussian blur r=1,0,0
+chelsea,DWT,key-B,Brightness +20,1,1
+chelsea,DWT,key-B,Contrast x0.9,1,1
+chelsea,DWT,key-B,Blank 25% area,1,1
+chelsea,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+chelsea,DWT,key-B,Crop 5% border,0,0
+chelsea,DWT,key-C,none,1,1
+chelsea,DWT,key-C,JPEG q=90,1,1
+chelsea,DWT,key-C,JPEG q=75,1,1
+chelsea,DWT,key-C,JPEG q=50,1,1
+chelsea,DWT,key-C,Noise sigma=3,1,1
+chelsea,DWT,key-C,Noise sigma=8,1,1
+chelsea,DWT,key-C,Resize 0.5x round trip,1,1
+chelsea,DWT,key-C,Median 3x3,0,0
+chelsea,DWT,key-C,Gaussian blur r=1,0,0
+chelsea,DWT,key-C,Brightness +20,1,1
+chelsea,DWT,key-C,Contrast x0.9,1,1
+chelsea,DWT,key-C,Blank 25% area,1,1
+chelsea,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+chelsea,DWT,key-C,Crop 5% border,0,0
+rocket,LSB,key-A,none,1,1
+rocket,LSB,key-A,JPEG q=90,0,0
+rocket,LSB,key-A,JPEG q=75,0,0
+rocket,LSB,key-A,JPEG q=50,0,0
+rocket,LSB,key-A,Noise sigma=3,0,0
+rocket,LSB,key-A,Noise sigma=8,0,0
+rocket,LSB,key-A,Resize 0.5x round trip,0,0
+rocket,LSB,key-A,Median 3x3,0,0
+rocket,LSB,key-A,Gaussian blur r=1,0,0
+rocket,LSB,key-A,Brightness +20,1,1
+rocket,LSB,key-A,Contrast x0.9,0,0
+rocket,LSB,key-A,Blank 25% area,0,0
+rocket,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+rocket,LSB,key-A,Crop 5% border,0,0
+rocket,LSB,key-B,none,1,1
+rocket,LSB,key-B,JPEG q=90,0,0
+rocket,LSB,key-B,JPEG q=75,0,0
+rocket,LSB,key-B,JPEG q=50,0,0
+rocket,LSB,key-B,Noise sigma=3,0,0
+rocket,LSB,key-B,Noise sigma=8,0,0
+rocket,LSB,key-B,Resize 0.5x round trip,0,0
+rocket,LSB,key-B,Median 3x3,0,0
+rocket,LSB,key-B,Gaussian blur r=1,0,0
+rocket,LSB,key-B,Brightness +20,1,1
+rocket,LSB,key-B,Contrast x0.9,0,0
+rocket,LSB,key-B,Blank 25% area,0,1
+rocket,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+rocket,LSB,key-B,Crop 5% border,0,0
+rocket,LSB,key-C,none,1,1
+rocket,LSB,key-C,JPEG q=90,0,0
+rocket,LSB,key-C,JPEG q=75,0,0
+rocket,LSB,key-C,JPEG q=50,0,0
+rocket,LSB,key-C,Noise sigma=3,0,0
+rocket,LSB,key-C,Noise sigma=8,0,0
+rocket,LSB,key-C,Resize 0.5x round trip,0,0
+rocket,LSB,key-C,Median 3x3,0,0
+rocket,LSB,key-C,Gaussian blur r=1,0,0
+rocket,LSB,key-C,Brightness +20,1,1
+rocket,LSB,key-C,Contrast x0.9,0,0
+rocket,LSB,key-C,Blank 25% area,0,0
+rocket,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+rocket,LSB,key-C,Crop 5% border,0,0
+rocket,DCT,key-A,none,1,1
+rocket,DCT,key-A,JPEG q=90,1,1
+rocket,DCT,key-A,JPEG q=75,1,1
+rocket,DCT,key-A,JPEG q=50,1,1
+rocket,DCT,key-A,Noise sigma=3,1,1
+rocket,DCT,key-A,Noise sigma=8,1,1
+rocket,DCT,key-A,Resize 0.5x round trip,1,1
+rocket,DCT,key-A,Median 3x3,1,1
+rocket,DCT,key-A,Gaussian blur r=1,1,1
+rocket,DCT,key-A,Brightness +20,1,1
+rocket,DCT,key-A,Contrast x0.9,1,1
+rocket,DCT,key-A,Blank 25% area,1,1
+rocket,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+rocket,DCT,key-A,Crop 5% border,0,0
+rocket,DCT,key-B,none,1,1
+rocket,DCT,key-B,JPEG q=90,1,1
+rocket,DCT,key-B,JPEG q=75,1,1
+rocket,DCT,key-B,JPEG q=50,1,1
+rocket,DCT,key-B,Noise sigma=3,1,1
+rocket,DCT,key-B,Noise sigma=8,1,1
+rocket,DCT,key-B,Resize 0.5x round trip,1,1
+rocket,DCT,key-B,Median 3x3,1,1
+rocket,DCT,key-B,Gaussian blur r=1,1,1
+rocket,DCT,key-B,Brightness +20,1,1
+rocket,DCT,key-B,Contrast x0.9,1,1
+rocket,DCT,key-B,Blank 25% area,1,1
+rocket,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+rocket,DCT,key-B,Crop 5% border,0,0
+rocket,DCT,key-C,none,1,1
+rocket,DCT,key-C,JPEG q=90,1,1
+rocket,DCT,key-C,JPEG q=75,1,1
+rocket,DCT,key-C,JPEG q=50,1,1
+rocket,DCT,key-C,Noise sigma=3,1,1
+rocket,DCT,key-C,Noise sigma=8,1,1
+rocket,DCT,key-C,Resize 0.5x round trip,1,1
+rocket,DCT,key-C,Median 3x3,1,1
+rocket,DCT,key-C,Gaussian blur r=1,1,1
+rocket,DCT,key-C,Brightness +20,1,1
+rocket,DCT,key-C,Contrast x0.9,1,1
+rocket,DCT,key-C,Blank 25% area,1,1
+rocket,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+rocket,DCT,key-C,Crop 5% border,0,0
+rocket,DWT,key-A,none,1,1
+rocket,DWT,key-A,JPEG q=90,1,1
+rocket,DWT,key-A,JPEG q=75,1,1
+rocket,DWT,key-A,JPEG q=50,1,1
+rocket,DWT,key-A,Noise sigma=3,1,1
+rocket,DWT,key-A,Noise sigma=8,1,1
+rocket,DWT,key-A,Resize 0.5x round trip,1,1
+rocket,DWT,key-A,Median 3x3,1,1
+rocket,DWT,key-A,Gaussian blur r=1,1,1
+rocket,DWT,key-A,Brightness +20,1,1
+rocket,DWT,key-A,Contrast x0.9,1,1
+rocket,DWT,key-A,Blank 25% area,1,1
+rocket,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+rocket,DWT,key-A,Crop 5% border,0,0
+rocket,DWT,key-B,none,1,1
+rocket,DWT,key-B,JPEG q=90,1,1
+rocket,DWT,key-B,JPEG q=75,1,1
+rocket,DWT,key-B,JPEG q=50,1,1
+rocket,DWT,key-B,Noise sigma=3,1,1
+rocket,DWT,key-B,Noise sigma=8,1,1
+rocket,DWT,key-B,Resize 0.5x round trip,1,1
+rocket,DWT,key-B,Median 3x3,1,1
+rocket,DWT,key-B,Gaussian blur r=1,1,1
+rocket,DWT,key-B,Brightness +20,1,1
+rocket,DWT,key-B,Contrast x0.9,1,1
+rocket,DWT,key-B,Blank 25% area,1,1
+rocket,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+rocket,DWT,key-B,Crop 5% border,0,0
+rocket,DWT,key-C,none,1,1
+rocket,DWT,key-C,JPEG q=90,1,1
+rocket,DWT,key-C,JPEG q=75,1,1
+rocket,DWT,key-C,JPEG q=50,1,1
+rocket,DWT,key-C,Noise sigma=3,1,1
+rocket,DWT,key-C,Noise sigma=8,1,1
+rocket,DWT,key-C,Resize 0.5x round trip,1,1
+rocket,DWT,key-C,Median 3x3,1,1
+rocket,DWT,key-C,Gaussian blur r=1,1,1
+rocket,DWT,key-C,Brightness +20,1,1
+rocket,DWT,key-C,Contrast x0.9,1,1
+rocket,DWT,key-C,Blank 25% area,1,1
+rocket,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+rocket,DWT,key-C,Crop 5% border,0,0
+immunohistochemistry,LSB,key-A,none,1,1
+immunohistochemistry,LSB,key-A,JPEG q=90,0,0
+immunohistochemistry,LSB,key-A,JPEG q=75,0,0
+immunohistochemistry,LSB,key-A,JPEG q=50,0,0
+immunohistochemistry,LSB,key-A,Noise sigma=3,0,0
+immunohistochemistry,LSB,key-A,Noise sigma=8,0,0
+immunohistochemistry,LSB,key-A,Resize 0.5x round trip,0,0
+immunohistochemistry,LSB,key-A,Median 3x3,0,0
+immunohistochemistry,LSB,key-A,Gaussian blur r=1,0,0
+immunohistochemistry,LSB,key-A,Brightness +20,1,1
+immunohistochemistry,LSB,key-A,Contrast x0.9,0,0
+immunohistochemistry,LSB,key-A,Blank 25% area,0,0
+immunohistochemistry,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+immunohistochemistry,LSB,key-A,Crop 5% border,0,0
+immunohistochemistry,LSB,key-B,none,1,1
+immunohistochemistry,LSB,key-B,JPEG q=90,0,0
+immunohistochemistry,LSB,key-B,JPEG q=75,0,0
+immunohistochemistry,LSB,key-B,JPEG q=50,0,0
+immunohistochemistry,LSB,key-B,Noise sigma=3,0,0
+immunohistochemistry,LSB,key-B,Noise sigma=8,0,0
+immunohistochemistry,LSB,key-B,Resize 0.5x round trip,0,0
+immunohistochemistry,LSB,key-B,Median 3x3,0,0
+immunohistochemistry,LSB,key-B,Gaussian blur r=1,0,0
+immunohistochemistry,LSB,key-B,Brightness +20,1,1
+immunohistochemistry,LSB,key-B,Contrast x0.9,0,0
+immunohistochemistry,LSB,key-B,Blank 25% area,0,0
+immunohistochemistry,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+immunohistochemistry,LSB,key-B,Crop 5% border,0,0
+immunohistochemistry,LSB,key-C,none,1,1
+immunohistochemistry,LSB,key-C,JPEG q=90,0,0
+immunohistochemistry,LSB,key-C,JPEG q=75,0,0
+immunohistochemistry,LSB,key-C,JPEG q=50,0,0
+immunohistochemistry,LSB,key-C,Noise sigma=3,0,0
+immunohistochemistry,LSB,key-C,Noise sigma=8,0,0
+immunohistochemistry,LSB,key-C,Resize 0.5x round trip,0,0
+immunohistochemistry,LSB,key-C,Median 3x3,0,0
+immunohistochemistry,LSB,key-C,Gaussian blur r=1,0,0
+immunohistochemistry,LSB,key-C,Brightness +20,0,1
+immunohistochemistry,LSB,key-C,Contrast x0.9,0,0
+immunohistochemistry,LSB,key-C,Blank 25% area,0,0
+immunohistochemistry,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+immunohistochemistry,LSB,key-C,Crop 5% border,0,0
+immunohistochemistry,DCT,key-A,none,1,1
+immunohistochemistry,DCT,key-A,JPEG q=90,1,1
+immunohistochemistry,DCT,key-A,JPEG q=75,1,1
+immunohistochemistry,DCT,key-A,JPEG q=50,1,1
+immunohistochemistry,DCT,key-A,Noise sigma=3,1,1
+immunohistochemistry,DCT,key-A,Noise sigma=8,1,1
+immunohistochemistry,DCT,key-A,Resize 0.5x round trip,1,1
+immunohistochemistry,DCT,key-A,Median 3x3,0,0
+immunohistochemistry,DCT,key-A,Gaussian blur r=1,0,0
+immunohistochemistry,DCT,key-A,Brightness +20,1,1
+immunohistochemistry,DCT,key-A,Contrast x0.9,1,1
+immunohistochemistry,DCT,key-A,Blank 25% area,1,1
+immunohistochemistry,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DCT,key-A,Crop 5% border,0,0
+immunohistochemistry,DCT,key-B,none,1,1
+immunohistochemistry,DCT,key-B,JPEG q=90,1,1
+immunohistochemistry,DCT,key-B,JPEG q=75,1,1
+immunohistochemistry,DCT,key-B,JPEG q=50,1,1
+immunohistochemistry,DCT,key-B,Noise sigma=3,1,1
+immunohistochemistry,DCT,key-B,Noise sigma=8,1,1
+immunohistochemistry,DCT,key-B,Resize 0.5x round trip,1,1
+immunohistochemistry,DCT,key-B,Median 3x3,0,0
+immunohistochemistry,DCT,key-B,Gaussian blur r=1,0,0
+immunohistochemistry,DCT,key-B,Brightness +20,1,1
+immunohistochemistry,DCT,key-B,Contrast x0.9,1,1
+immunohistochemistry,DCT,key-B,Blank 25% area,1,1
+immunohistochemistry,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DCT,key-B,Crop 5% border,0,0
+immunohistochemistry,DCT,key-C,none,1,1
+immunohistochemistry,DCT,key-C,JPEG q=90,1,1
+immunohistochemistry,DCT,key-C,JPEG q=75,1,1
+immunohistochemistry,DCT,key-C,JPEG q=50,1,1
+immunohistochemistry,DCT,key-C,Noise sigma=3,1,1
+immunohistochemistry,DCT,key-C,Noise sigma=8,1,1
+immunohistochemistry,DCT,key-C,Resize 0.5x round trip,1,1
+immunohistochemistry,DCT,key-C,Median 3x3,0,1
+immunohistochemistry,DCT,key-C,Gaussian blur r=1,0,0
+immunohistochemistry,DCT,key-C,Brightness +20,1,1
+immunohistochemistry,DCT,key-C,Contrast x0.9,1,1
+immunohistochemistry,DCT,key-C,Blank 25% area,1,1
+immunohistochemistry,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DCT,key-C,Crop 5% border,0,0
+immunohistochemistry,DWT,key-A,none,1,1
+immunohistochemistry,DWT,key-A,JPEG q=90,1,1
+immunohistochemistry,DWT,key-A,JPEG q=75,1,1
+immunohistochemistry,DWT,key-A,JPEG q=50,1,1
+immunohistochemistry,DWT,key-A,Noise sigma=3,1,1
+immunohistochemistry,DWT,key-A,Noise sigma=8,1,1
+immunohistochemistry,DWT,key-A,Resize 0.5x round trip,1,1
+immunohistochemistry,DWT,key-A,Median 3x3,0,1
+immunohistochemistry,DWT,key-A,Gaussian blur r=1,0,0
+immunohistochemistry,DWT,key-A,Brightness +20,1,1
+immunohistochemistry,DWT,key-A,Contrast x0.9,1,1
+immunohistochemistry,DWT,key-A,Blank 25% area,1,1
+immunohistochemistry,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DWT,key-A,Crop 5% border,0,0
+immunohistochemistry,DWT,key-B,none,1,1
+immunohistochemistry,DWT,key-B,JPEG q=90,1,1
+immunohistochemistry,DWT,key-B,JPEG q=75,1,1
+immunohistochemistry,DWT,key-B,JPEG q=50,1,1
+immunohistochemistry,DWT,key-B,Noise sigma=3,1,1
+immunohistochemistry,DWT,key-B,Noise sigma=8,1,1
+immunohistochemistry,DWT,key-B,Resize 0.5x round trip,1,1
+immunohistochemistry,DWT,key-B,Median 3x3,1,1
+immunohistochemistry,DWT,key-B,Gaussian blur r=1,0,0
+immunohistochemistry,DWT,key-B,Brightness +20,1,1
+immunohistochemistry,DWT,key-B,Contrast x0.9,1,1
+immunohistochemistry,DWT,key-B,Blank 25% area,1,1
+immunohistochemistry,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DWT,key-B,Crop 5% border,0,0
+immunohistochemistry,DWT,key-C,none,1,1
+immunohistochemistry,DWT,key-C,JPEG q=90,1,1
+immunohistochemistry,DWT,key-C,JPEG q=75,1,1
+immunohistochemistry,DWT,key-C,JPEG q=50,1,1
+immunohistochemistry,DWT,key-C,Noise sigma=3,1,1
+immunohistochemistry,DWT,key-C,Noise sigma=8,1,1
+immunohistochemistry,DWT,key-C,Resize 0.5x round trip,1,1
+immunohistochemistry,DWT,key-C,Median 3x3,1,1
+immunohistochemistry,DWT,key-C,Gaussian blur r=1,0,0
+immunohistochemistry,DWT,key-C,Brightness +20,1,1
+immunohistochemistry,DWT,key-C,Contrast x0.9,1,1
+immunohistochemistry,DWT,key-C,Blank 25% area,1,1
+immunohistochemistry,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+immunohistochemistry,DWT,key-C,Crop 5% border,0,0
+hubble_deep_field,LSB,key-A,none,1,1
+hubble_deep_field,LSB,key-A,JPEG q=90,0,0
+hubble_deep_field,LSB,key-A,JPEG q=75,0,0
+hubble_deep_field,LSB,key-A,JPEG q=50,0,0
+hubble_deep_field,LSB,key-A,Noise sigma=3,0,0
+hubble_deep_field,LSB,key-A,Noise sigma=8,0,0
+hubble_deep_field,LSB,key-A,Resize 0.5x round trip,0,0
+hubble_deep_field,LSB,key-A,Median 3x3,0,0
+hubble_deep_field,LSB,key-A,Gaussian blur r=1,0,0
+hubble_deep_field,LSB,key-A,Brightness +20,1,1
+hubble_deep_field,LSB,key-A,Contrast x0.9,0,0
+hubble_deep_field,LSB,key-A,Blank 25% area,0,0
+hubble_deep_field,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+hubble_deep_field,LSB,key-A,Crop 5% border,0,0
+hubble_deep_field,LSB,key-B,none,1,1
+hubble_deep_field,LSB,key-B,JPEG q=90,0,0
+hubble_deep_field,LSB,key-B,JPEG q=75,0,0
+hubble_deep_field,LSB,key-B,JPEG q=50,0,0
+hubble_deep_field,LSB,key-B,Noise sigma=3,0,0
+hubble_deep_field,LSB,key-B,Noise sigma=8,0,0
+hubble_deep_field,LSB,key-B,Resize 0.5x round trip,0,0
+hubble_deep_field,LSB,key-B,Median 3x3,0,0
+hubble_deep_field,LSB,key-B,Gaussian blur r=1,0,0
+hubble_deep_field,LSB,key-B,Brightness +20,1,1
+hubble_deep_field,LSB,key-B,Contrast x0.9,0,0
+hubble_deep_field,LSB,key-B,Blank 25% area,0,1
+hubble_deep_field,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+hubble_deep_field,LSB,key-B,Crop 5% border,0,0
+hubble_deep_field,LSB,key-C,none,1,1
+hubble_deep_field,LSB,key-C,JPEG q=90,0,0
+hubble_deep_field,LSB,key-C,JPEG q=75,0,0
+hubble_deep_field,LSB,key-C,JPEG q=50,0,0
+hubble_deep_field,LSB,key-C,Noise sigma=3,0,0
+hubble_deep_field,LSB,key-C,Noise sigma=8,0,0
+hubble_deep_field,LSB,key-C,Resize 0.5x round trip,0,0
+hubble_deep_field,LSB,key-C,Median 3x3,0,0
+hubble_deep_field,LSB,key-C,Gaussian blur r=1,0,0
+hubble_deep_field,LSB,key-C,Brightness +20,1,1
+hubble_deep_field,LSB,key-C,Contrast x0.9,0,0
+hubble_deep_field,LSB,key-C,Blank 25% area,0,1
+hubble_deep_field,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+hubble_deep_field,LSB,key-C,Crop 5% border,0,0
+hubble_deep_field,DCT,key-A,none,1,1
+hubble_deep_field,DCT,key-A,JPEG q=90,1,1
+hubble_deep_field,DCT,key-A,JPEG q=75,1,1
+hubble_deep_field,DCT,key-A,JPEG q=50,1,1
+hubble_deep_field,DCT,key-A,Noise sigma=3,1,1
+hubble_deep_field,DCT,key-A,Noise sigma=8,1,1
+hubble_deep_field,DCT,key-A,Resize 0.5x round trip,1,1
+hubble_deep_field,DCT,key-A,Median 3x3,1,1
+hubble_deep_field,DCT,key-A,Gaussian blur r=1,1,1
+hubble_deep_field,DCT,key-A,Brightness +20,1,1
+hubble_deep_field,DCT,key-A,Contrast x0.9,1,1
+hubble_deep_field,DCT,key-A,Blank 25% area,1,1
+hubble_deep_field,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DCT,key-A,Crop 5% border,0,0
+hubble_deep_field,DCT,key-B,none,1,1
+hubble_deep_field,DCT,key-B,JPEG q=90,1,1
+hubble_deep_field,DCT,key-B,JPEG q=75,1,1
+hubble_deep_field,DCT,key-B,JPEG q=50,1,1
+hubble_deep_field,DCT,key-B,Noise sigma=3,1,1
+hubble_deep_field,DCT,key-B,Noise sigma=8,1,1
+hubble_deep_field,DCT,key-B,Resize 0.5x round trip,1,1
+hubble_deep_field,DCT,key-B,Median 3x3,1,1
+hubble_deep_field,DCT,key-B,Gaussian blur r=1,1,1
+hubble_deep_field,DCT,key-B,Brightness +20,1,1
+hubble_deep_field,DCT,key-B,Contrast x0.9,1,1
+hubble_deep_field,DCT,key-B,Blank 25% area,1,1
+hubble_deep_field,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DCT,key-B,Crop 5% border,0,0
+hubble_deep_field,DCT,key-C,none,1,1
+hubble_deep_field,DCT,key-C,JPEG q=90,1,1
+hubble_deep_field,DCT,key-C,JPEG q=75,1,1
+hubble_deep_field,DCT,key-C,JPEG q=50,1,1
+hubble_deep_field,DCT,key-C,Noise sigma=3,1,1
+hubble_deep_field,DCT,key-C,Noise sigma=8,1,1
+hubble_deep_field,DCT,key-C,Resize 0.5x round trip,1,1
+hubble_deep_field,DCT,key-C,Median 3x3,1,1
+hubble_deep_field,DCT,key-C,Gaussian blur r=1,1,1
+hubble_deep_field,DCT,key-C,Brightness +20,1,1
+hubble_deep_field,DCT,key-C,Contrast x0.9,1,1
+hubble_deep_field,DCT,key-C,Blank 25% area,1,1
+hubble_deep_field,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DCT,key-C,Crop 5% border,0,0
+hubble_deep_field,DWT,key-A,none,1,1
+hubble_deep_field,DWT,key-A,JPEG q=90,1,1
+hubble_deep_field,DWT,key-A,JPEG q=75,1,1
+hubble_deep_field,DWT,key-A,JPEG q=50,1,1
+hubble_deep_field,DWT,key-A,Noise sigma=3,1,1
+hubble_deep_field,DWT,key-A,Noise sigma=8,1,1
+hubble_deep_field,DWT,key-A,Resize 0.5x round trip,1,1
+hubble_deep_field,DWT,key-A,Median 3x3,1,1
+hubble_deep_field,DWT,key-A,Gaussian blur r=1,1,1
+hubble_deep_field,DWT,key-A,Brightness +20,1,1
+hubble_deep_field,DWT,key-A,Contrast x0.9,1,1
+hubble_deep_field,DWT,key-A,Blank 25% area,1,1
+hubble_deep_field,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DWT,key-A,Crop 5% border,0,0
+hubble_deep_field,DWT,key-B,none,1,1
+hubble_deep_field,DWT,key-B,JPEG q=90,1,1
+hubble_deep_field,DWT,key-B,JPEG q=75,1,1
+hubble_deep_field,DWT,key-B,JPEG q=50,1,1
+hubble_deep_field,DWT,key-B,Noise sigma=3,1,1
+hubble_deep_field,DWT,key-B,Noise sigma=8,1,1
+hubble_deep_field,DWT,key-B,Resize 0.5x round trip,1,1
+hubble_deep_field,DWT,key-B,Median 3x3,1,1
+hubble_deep_field,DWT,key-B,Gaussian blur r=1,1,1
+hubble_deep_field,DWT,key-B,Brightness +20,1,1
+hubble_deep_field,DWT,key-B,Contrast x0.9,1,1
+hubble_deep_field,DWT,key-B,Blank 25% area,1,1
+hubble_deep_field,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DWT,key-B,Crop 5% border,0,0
+hubble_deep_field,DWT,key-C,none,1,1
+hubble_deep_field,DWT,key-C,JPEG q=90,1,1
+hubble_deep_field,DWT,key-C,JPEG q=75,1,1
+hubble_deep_field,DWT,key-C,JPEG q=50,1,1
+hubble_deep_field,DWT,key-C,Noise sigma=3,1,1
+hubble_deep_field,DWT,key-C,Noise sigma=8,1,1
+hubble_deep_field,DWT,key-C,Resize 0.5x round trip,1,1
+hubble_deep_field,DWT,key-C,Median 3x3,1,1
+hubble_deep_field,DWT,key-C,Gaussian blur r=1,1,1
+hubble_deep_field,DWT,key-C,Brightness +20,1,1
+hubble_deep_field,DWT,key-C,Contrast x0.9,1,1
+hubble_deep_field,DWT,key-C,Blank 25% area,1,1
+hubble_deep_field,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+hubble_deep_field,DWT,key-C,Crop 5% border,0,0
+retina,LSB,key-A,none,1,1
+retina,LSB,key-A,JPEG q=90,0,0
+retina,LSB,key-A,JPEG q=75,0,0
+retina,LSB,key-A,JPEG q=50,0,0
+retina,LSB,key-A,Noise sigma=3,0,0
+retina,LSB,key-A,Noise sigma=8,0,0
+retina,LSB,key-A,Resize 0.5x round trip,0,0
+retina,LSB,key-A,Median 3x3,0,0
+retina,LSB,key-A,Gaussian blur r=1,0,0
+retina,LSB,key-A,Brightness +20,1,1
+retina,LSB,key-A,Contrast x0.9,0,0
+retina,LSB,key-A,Blank 25% area,0,0
+retina,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+retina,LSB,key-A,Crop 5% border,0,0
+retina,LSB,key-B,none,1,1
+retina,LSB,key-B,JPEG q=90,0,0
+retina,LSB,key-B,JPEG q=75,0,0
+retina,LSB,key-B,JPEG q=50,0,0
+retina,LSB,key-B,Noise sigma=3,0,0
+retina,LSB,key-B,Noise sigma=8,0,0
+retina,LSB,key-B,Resize 0.5x round trip,0,0
+retina,LSB,key-B,Median 3x3,0,0
+retina,LSB,key-B,Gaussian blur r=1,0,0
+retina,LSB,key-B,Brightness +20,1,1
+retina,LSB,key-B,Contrast x0.9,0,0
+retina,LSB,key-B,Blank 25% area,0,0
+retina,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+retina,LSB,key-B,Crop 5% border,0,0
+retina,LSB,key-C,none,1,1
+retina,LSB,key-C,JPEG q=90,0,0
+retina,LSB,key-C,JPEG q=75,0,0
+retina,LSB,key-C,JPEG q=50,0,0
+retina,LSB,key-C,Noise sigma=3,0,0
+retina,LSB,key-C,Noise sigma=8,0,0
+retina,LSB,key-C,Resize 0.5x round trip,0,0
+retina,LSB,key-C,Median 3x3,0,0
+retina,LSB,key-C,Gaussian blur r=1,0,0
+retina,LSB,key-C,Brightness +20,1,1
+retina,LSB,key-C,Contrast x0.9,0,0
+retina,LSB,key-C,Blank 25% area,0,0
+retina,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+retina,LSB,key-C,Crop 5% border,0,0
+retina,DCT,key-A,none,1,1
+retina,DCT,key-A,JPEG q=90,1,1
+retina,DCT,key-A,JPEG q=75,1,1
+retina,DCT,key-A,JPEG q=50,1,1
+retina,DCT,key-A,Noise sigma=3,1,1
+retina,DCT,key-A,Noise sigma=8,1,1
+retina,DCT,key-A,Resize 0.5x round trip,1,1
+retina,DCT,key-A,Median 3x3,1,1
+retina,DCT,key-A,Gaussian blur r=1,1,1
+retina,DCT,key-A,Brightness +20,1,1
+retina,DCT,key-A,Contrast x0.9,1,1
+retina,DCT,key-A,Blank 25% area,1,1
+retina,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+retina,DCT,key-A,Crop 5% border,0,0
+retina,DCT,key-B,none,1,1
+retina,DCT,key-B,JPEG q=90,1,1
+retina,DCT,key-B,JPEG q=75,1,1
+retina,DCT,key-B,JPEG q=50,1,1
+retina,DCT,key-B,Noise sigma=3,1,1
+retina,DCT,key-B,Noise sigma=8,1,1
+retina,DCT,key-B,Resize 0.5x round trip,1,1
+retina,DCT,key-B,Median 3x3,1,1
+retina,DCT,key-B,Gaussian blur r=1,1,1
+retina,DCT,key-B,Brightness +20,1,1
+retina,DCT,key-B,Contrast x0.9,1,1
+retina,DCT,key-B,Blank 25% area,1,1
+retina,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+retina,DCT,key-B,Crop 5% border,0,0
+retina,DCT,key-C,none,1,1
+retina,DCT,key-C,JPEG q=90,1,1
+retina,DCT,key-C,JPEG q=75,1,1
+retina,DCT,key-C,JPEG q=50,1,1
+retina,DCT,key-C,Noise sigma=3,1,1
+retina,DCT,key-C,Noise sigma=8,1,1
+retina,DCT,key-C,Resize 0.5x round trip,1,1
+retina,DCT,key-C,Median 3x3,1,1
+retina,DCT,key-C,Gaussian blur r=1,1,1
+retina,DCT,key-C,Brightness +20,1,1
+retina,DCT,key-C,Contrast x0.9,1,1
+retina,DCT,key-C,Blank 25% area,1,1
+retina,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+retina,DCT,key-C,Crop 5% border,0,0
+retina,DWT,key-A,none,1,1
+retina,DWT,key-A,JPEG q=90,1,1
+retina,DWT,key-A,JPEG q=75,1,1
+retina,DWT,key-A,JPEG q=50,1,1
+retina,DWT,key-A,Noise sigma=3,1,1
+retina,DWT,key-A,Noise sigma=8,1,1
+retina,DWT,key-A,Resize 0.5x round trip,1,1
+retina,DWT,key-A,Median 3x3,1,1
+retina,DWT,key-A,Gaussian blur r=1,1,1
+retina,DWT,key-A,Brightness +20,1,1
+retina,DWT,key-A,Contrast x0.9,1,1
+retina,DWT,key-A,Blank 25% area,1,1
+retina,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+retina,DWT,key-A,Crop 5% border,0,0
+retina,DWT,key-B,none,1,1
+retina,DWT,key-B,JPEG q=90,1,1
+retina,DWT,key-B,JPEG q=75,1,1
+retina,DWT,key-B,JPEG q=50,1,1
+retina,DWT,key-B,Noise sigma=3,1,1
+retina,DWT,key-B,Noise sigma=8,1,1
+retina,DWT,key-B,Resize 0.5x round trip,1,1
+retina,DWT,key-B,Median 3x3,1,1
+retina,DWT,key-B,Gaussian blur r=1,1,1
+retina,DWT,key-B,Brightness +20,1,1
+retina,DWT,key-B,Contrast x0.9,1,1
+retina,DWT,key-B,Blank 25% area,1,1
+retina,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+retina,DWT,key-B,Crop 5% border,0,0
+retina,DWT,key-C,none,1,1
+retina,DWT,key-C,JPEG q=90,1,1
+retina,DWT,key-C,JPEG q=75,1,1
+retina,DWT,key-C,JPEG q=50,1,1
+retina,DWT,key-C,Noise sigma=3,1,1
+retina,DWT,key-C,Noise sigma=8,1,1
+retina,DWT,key-C,Resize 0.5x round trip,1,1
+retina,DWT,key-C,Median 3x3,1,1
+retina,DWT,key-C,Gaussian blur r=1,1,1
+retina,DWT,key-C,Brightness +20,1,1
+retina,DWT,key-C,Contrast x0.9,1,1
+retina,DWT,key-C,Blank 25% area,1,1
+retina,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+retina,DWT,key-C,Crop 5% border,0,0
+colorwheel,LSB,key-A,none,1,1
+colorwheel,LSB,key-A,JPEG q=90,0,0
+colorwheel,LSB,key-A,JPEG q=75,0,0
+colorwheel,LSB,key-A,JPEG q=50,0,0
+colorwheel,LSB,key-A,Noise sigma=3,0,0
+colorwheel,LSB,key-A,Noise sigma=8,0,0
+colorwheel,LSB,key-A,Resize 0.5x round trip,0,0
+colorwheel,LSB,key-A,Median 3x3,0,0
+colorwheel,LSB,key-A,Gaussian blur r=1,0,0
+colorwheel,LSB,key-A,Brightness +20,0,0
+colorwheel,LSB,key-A,Contrast x0.9,0,0
+colorwheel,LSB,key-A,Blank 25% area,0,0
+colorwheel,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+colorwheel,LSB,key-A,Crop 5% border,0,0
+colorwheel,LSB,key-B,none,1,1
+colorwheel,LSB,key-B,JPEG q=90,0,0
+colorwheel,LSB,key-B,JPEG q=75,0,0
+colorwheel,LSB,key-B,JPEG q=50,0,0
+colorwheel,LSB,key-B,Noise sigma=3,0,0
+colorwheel,LSB,key-B,Noise sigma=8,0,0
+colorwheel,LSB,key-B,Resize 0.5x round trip,0,0
+colorwheel,LSB,key-B,Median 3x3,0,0
+colorwheel,LSB,key-B,Gaussian blur r=1,0,0
+colorwheel,LSB,key-B,Brightness +20,0,1
+colorwheel,LSB,key-B,Contrast x0.9,0,0
+colorwheel,LSB,key-B,Blank 25% area,0,0
+colorwheel,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+colorwheel,LSB,key-B,Crop 5% border,0,0
+colorwheel,LSB,key-C,none,1,1
+colorwheel,LSB,key-C,JPEG q=90,0,0
+colorwheel,LSB,key-C,JPEG q=75,0,0
+colorwheel,LSB,key-C,JPEG q=50,0,0
+colorwheel,LSB,key-C,Noise sigma=3,0,0
+colorwheel,LSB,key-C,Noise sigma=8,0,0
+colorwheel,LSB,key-C,Resize 0.5x round trip,0,0
+colorwheel,LSB,key-C,Median 3x3,0,0
+colorwheel,LSB,key-C,Gaussian blur r=1,0,0
+colorwheel,LSB,key-C,Brightness +20,0,0
+colorwheel,LSB,key-C,Contrast x0.9,0,0
+colorwheel,LSB,key-C,Blank 25% area,0,0
+colorwheel,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+colorwheel,LSB,key-C,Crop 5% border,0,0
+colorwheel,DCT,key-A,none,1,1
+colorwheel,DCT,key-A,JPEG q=90,1,1
+colorwheel,DCT,key-A,JPEG q=75,1,1
+colorwheel,DCT,key-A,JPEG q=50,1,1
+colorwheel,DCT,key-A,Noise sigma=3,1,1
+colorwheel,DCT,key-A,Noise sigma=8,1,1
+colorwheel,DCT,key-A,Resize 0.5x round trip,1,1
+colorwheel,DCT,key-A,Median 3x3,1,1
+colorwheel,DCT,key-A,Gaussian blur r=1,1,1
+colorwheel,DCT,key-A,Brightness +20,1,1
+colorwheel,DCT,key-A,Contrast x0.9,1,1
+colorwheel,DCT,key-A,Blank 25% area,1,1
+colorwheel,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+colorwheel,DCT,key-A,Crop 5% border,0,0
+colorwheel,DCT,key-B,none,1,1
+colorwheel,DCT,key-B,JPEG q=90,1,1
+colorwheel,DCT,key-B,JPEG q=75,1,1
+colorwheel,DCT,key-B,JPEG q=50,1,1
+colorwheel,DCT,key-B,Noise sigma=3,1,1
+colorwheel,DCT,key-B,Noise sigma=8,0,1
+colorwheel,DCT,key-B,Resize 0.5x round trip,1,1
+colorwheel,DCT,key-B,Median 3x3,1,1
+colorwheel,DCT,key-B,Gaussian blur r=1,1,1
+colorwheel,DCT,key-B,Brightness +20,1,1
+colorwheel,DCT,key-B,Contrast x0.9,1,1
+colorwheel,DCT,key-B,Blank 25% area,1,1
+colorwheel,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+colorwheel,DCT,key-B,Crop 5% border,0,0
+colorwheel,DCT,key-C,none,1,1
+colorwheel,DCT,key-C,JPEG q=90,1,1
+colorwheel,DCT,key-C,JPEG q=75,1,1
+colorwheel,DCT,key-C,JPEG q=50,1,1
+colorwheel,DCT,key-C,Noise sigma=3,1,1
+colorwheel,DCT,key-C,Noise sigma=8,1,1
+colorwheel,DCT,key-C,Resize 0.5x round trip,1,1
+colorwheel,DCT,key-C,Median 3x3,1,1
+colorwheel,DCT,key-C,Gaussian blur r=1,1,1
+colorwheel,DCT,key-C,Brightness +20,1,1
+colorwheel,DCT,key-C,Contrast x0.9,1,1
+colorwheel,DCT,key-C,Blank 25% area,1,1
+colorwheel,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+colorwheel,DCT,key-C,Crop 5% border,0,0
+colorwheel,DWT,key-A,none,1,1
+colorwheel,DWT,key-A,JPEG q=90,1,1
+colorwheel,DWT,key-A,JPEG q=75,1,1
+colorwheel,DWT,key-A,JPEG q=50,1,1
+colorwheel,DWT,key-A,Noise sigma=3,1,1
+colorwheel,DWT,key-A,Noise sigma=8,1,1
+colorwheel,DWT,key-A,Resize 0.5x round trip,1,1
+colorwheel,DWT,key-A,Median 3x3,1,1
+colorwheel,DWT,key-A,Gaussian blur r=1,1,1
+colorwheel,DWT,key-A,Brightness +20,1,1
+colorwheel,DWT,key-A,Contrast x0.9,1,1
+colorwheel,DWT,key-A,Blank 25% area,1,1
+colorwheel,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+colorwheel,DWT,key-A,Crop 5% border,0,0
+colorwheel,DWT,key-B,none,1,1
+colorwheel,DWT,key-B,JPEG q=90,1,1
+colorwheel,DWT,key-B,JPEG q=75,1,1
+colorwheel,DWT,key-B,JPEG q=50,1,1
+colorwheel,DWT,key-B,Noise sigma=3,1,1
+colorwheel,DWT,key-B,Noise sigma=8,1,1
+colorwheel,DWT,key-B,Resize 0.5x round trip,1,1
+colorwheel,DWT,key-B,Median 3x3,1,1
+colorwheel,DWT,key-B,Gaussian blur r=1,1,1
+colorwheel,DWT,key-B,Brightness +20,1,1
+colorwheel,DWT,key-B,Contrast x0.9,1,1
+colorwheel,DWT,key-B,Blank 25% area,1,1
+colorwheel,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+colorwheel,DWT,key-B,Crop 5% border,0,0
+colorwheel,DWT,key-C,none,1,1
+colorwheel,DWT,key-C,JPEG q=90,1,1
+colorwheel,DWT,key-C,JPEG q=75,1,1
+colorwheel,DWT,key-C,JPEG q=50,1,1
+colorwheel,DWT,key-C,Noise sigma=3,1,1
+colorwheel,DWT,key-C,Noise sigma=8,1,1
+colorwheel,DWT,key-C,Resize 0.5x round trip,1,1
+colorwheel,DWT,key-C,Median 3x3,1,1
+colorwheel,DWT,key-C,Gaussian blur r=1,1,1
+colorwheel,DWT,key-C,Brightness +20,1,1
+colorwheel,DWT,key-C,Contrast x0.9,1,1
+colorwheel,DWT,key-C,Blank 25% area,0,1
+colorwheel,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+colorwheel,DWT,key-C,Crop 5% border,0,0
+logo,LSB,key-A,none,1,1
+logo,LSB,key-A,JPEG q=90,0,0
+logo,LSB,key-A,JPEG q=75,0,0
+logo,LSB,key-A,JPEG q=50,0,0
+logo,LSB,key-A,Noise sigma=3,0,0
+logo,LSB,key-A,Noise sigma=8,0,0
+logo,LSB,key-A,Resize 0.5x round trip,0,0
+logo,LSB,key-A,Median 3x3,0,0
+logo,LSB,key-A,Gaussian blur r=1,0,0
+logo,LSB,key-A,Brightness +20,0,0
+logo,LSB,key-A,Contrast x0.9,0,0
+logo,LSB,key-A,Blank 25% area,0,0
+logo,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+logo,LSB,key-A,Crop 5% border,0,0
+logo,LSB,key-B,none,1,1
+logo,LSB,key-B,JPEG q=90,0,0
+logo,LSB,key-B,JPEG q=75,0,0
+logo,LSB,key-B,JPEG q=50,0,0
+logo,LSB,key-B,Noise sigma=3,0,0
+logo,LSB,key-B,Noise sigma=8,0,0
+logo,LSB,key-B,Resize 0.5x round trip,0,0
+logo,LSB,key-B,Median 3x3,0,0
+logo,LSB,key-B,Gaussian blur r=1,0,0
+logo,LSB,key-B,Brightness +20,0,0
+logo,LSB,key-B,Contrast x0.9,0,0
+logo,LSB,key-B,Blank 25% area,0,0
+logo,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+logo,LSB,key-B,Crop 5% border,0,0
+logo,LSB,key-C,none,1,1
+logo,LSB,key-C,JPEG q=90,0,0
+logo,LSB,key-C,JPEG q=75,0,0
+logo,LSB,key-C,JPEG q=50,0,0
+logo,LSB,key-C,Noise sigma=3,0,0
+logo,LSB,key-C,Noise sigma=8,0,0
+logo,LSB,key-C,Resize 0.5x round trip,0,0
+logo,LSB,key-C,Median 3x3,0,0
+logo,LSB,key-C,Gaussian blur r=1,0,0
+logo,LSB,key-C,Brightness +20,0,0
+logo,LSB,key-C,Contrast x0.9,0,0
+logo,LSB,key-C,Blank 25% area,0,0
+logo,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+logo,LSB,key-C,Crop 5% border,0,0
+logo,DCT,key-A,none,1,1
+logo,DCT,key-A,JPEG q=90,1,1
+logo,DCT,key-A,JPEG q=75,1,1
+logo,DCT,key-A,JPEG q=50,1,1
+logo,DCT,key-A,Noise sigma=3,1,1
+logo,DCT,key-A,Noise sigma=8,1,1
+logo,DCT,key-A,Resize 0.5x round trip,1,1
+logo,DCT,key-A,Median 3x3,1,1
+logo,DCT,key-A,Gaussian blur r=1,1,1
+logo,DCT,key-A,Brightness +20,1,1
+logo,DCT,key-A,Contrast x0.9,1,1
+logo,DCT,key-A,Blank 25% area,1,1
+logo,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+logo,DCT,key-A,Crop 5% border,0,0
+logo,DCT,key-B,none,1,1
+logo,DCT,key-B,JPEG q=90,1,1
+logo,DCT,key-B,JPEG q=75,1,1
+logo,DCT,key-B,JPEG q=50,1,1
+logo,DCT,key-B,Noise sigma=3,1,1
+logo,DCT,key-B,Noise sigma=8,1,1
+logo,DCT,key-B,Resize 0.5x round trip,1,1
+logo,DCT,key-B,Median 3x3,1,1
+logo,DCT,key-B,Gaussian blur r=1,1,1
+logo,DCT,key-B,Brightness +20,1,1
+logo,DCT,key-B,Contrast x0.9,1,1
+logo,DCT,key-B,Blank 25% area,1,1
+logo,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+logo,DCT,key-B,Crop 5% border,0,0
+logo,DCT,key-C,none,1,1
+logo,DCT,key-C,JPEG q=90,1,1
+logo,DCT,key-C,JPEG q=75,1,1
+logo,DCT,key-C,JPEG q=50,1,1
+logo,DCT,key-C,Noise sigma=3,1,1
+logo,DCT,key-C,Noise sigma=8,1,1
+logo,DCT,key-C,Resize 0.5x round trip,1,1
+logo,DCT,key-C,Median 3x3,1,1
+logo,DCT,key-C,Gaussian blur r=1,1,1
+logo,DCT,key-C,Brightness +20,1,1
+logo,DCT,key-C,Contrast x0.9,1,1
+logo,DCT,key-C,Blank 25% area,1,1
+logo,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+logo,DCT,key-C,Crop 5% border,0,0
+logo,DWT,key-A,none,1,1
+logo,DWT,key-A,JPEG q=90,1,1
+logo,DWT,key-A,JPEG q=75,1,1
+logo,DWT,key-A,JPEG q=50,1,1
+logo,DWT,key-A,Noise sigma=3,1,1
+logo,DWT,key-A,Noise sigma=8,1,1
+logo,DWT,key-A,Resize 0.5x round trip,1,1
+logo,DWT,key-A,Median 3x3,1,1
+logo,DWT,key-A,Gaussian blur r=1,1,1
+logo,DWT,key-A,Brightness +20,1,1
+logo,DWT,key-A,Contrast x0.9,1,1
+logo,DWT,key-A,Blank 25% area,1,1
+logo,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+logo,DWT,key-A,Crop 5% border,0,0
+logo,DWT,key-B,none,1,1
+logo,DWT,key-B,JPEG q=90,1,1
+logo,DWT,key-B,JPEG q=75,1,1
+logo,DWT,key-B,JPEG q=50,1,1
+logo,DWT,key-B,Noise sigma=3,1,1
+logo,DWT,key-B,Noise sigma=8,1,1
+logo,DWT,key-B,Resize 0.5x round trip,1,1
+logo,DWT,key-B,Median 3x3,1,1
+logo,DWT,key-B,Gaussian blur r=1,1,1
+logo,DWT,key-B,Brightness +20,1,1
+logo,DWT,key-B,Contrast x0.9,1,1
+logo,DWT,key-B,Blank 25% area,1,1
+logo,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+logo,DWT,key-B,Crop 5% border,0,0
+logo,DWT,key-C,none,1,1
+logo,DWT,key-C,JPEG q=90,1,1
+logo,DWT,key-C,JPEG q=75,1,1
+logo,DWT,key-C,JPEG q=50,1,1
+logo,DWT,key-C,Noise sigma=3,1,1
+logo,DWT,key-C,Noise sigma=8,1,1
+logo,DWT,key-C,Resize 0.5x round trip,1,1
+logo,DWT,key-C,Median 3x3,1,1
+logo,DWT,key-C,Gaussian blur r=1,1,1
+logo,DWT,key-C,Brightness +20,1,1
+logo,DWT,key-C,Contrast x0.9,1,1
+logo,DWT,key-C,Blank 25% area,1,1
+logo,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+logo,DWT,key-C,Crop 5% border,0,0
+black_square,LSB,key-A,none,1,1
+black_square,LSB,key-A,JPEG q=90,0,0
+black_square,LSB,key-A,JPEG q=75,0,0
+black_square,LSB,key-A,JPEG q=50,0,0
+black_square,LSB,key-A,Noise sigma=3,0,0
+black_square,LSB,key-A,Noise sigma=8,0,0
+black_square,LSB,key-A,Resize 0.5x round trip,0,0
+black_square,LSB,key-A,Median 3x3,0,0
+black_square,LSB,key-A,Gaussian blur r=1,0,1
+black_square,LSB,key-A,Brightness +20,0,0
+black_square,LSB,key-A,Contrast x0.9,0,0
+black_square,LSB,key-A,Blank 25% area,0,0
+black_square,LSB,key-A,Resize 0.75x + JPEG 75,0,0
+black_square,LSB,key-A,Crop 5% border,0,0
+black_square,LSB,key-B,none,1,1
+black_square,LSB,key-B,JPEG q=90,0,0
+black_square,LSB,key-B,JPEG q=75,0,0
+black_square,LSB,key-B,JPEG q=50,0,0
+black_square,LSB,key-B,Noise sigma=3,0,0
+black_square,LSB,key-B,Noise sigma=8,0,0
+black_square,LSB,key-B,Resize 0.5x round trip,0,0
+black_square,LSB,key-B,Median 3x3,0,0
+black_square,LSB,key-B,Gaussian blur r=1,0,1
+black_square,LSB,key-B,Brightness +20,0,0
+black_square,LSB,key-B,Contrast x0.9,0,0
+black_square,LSB,key-B,Blank 25% area,0,0
+black_square,LSB,key-B,Resize 0.75x + JPEG 75,0,0
+black_square,LSB,key-B,Crop 5% border,0,0
+black_square,LSB,key-C,none,1,1
+black_square,LSB,key-C,JPEG q=90,0,0
+black_square,LSB,key-C,JPEG q=75,0,0
+black_square,LSB,key-C,JPEG q=50,0,0
+black_square,LSB,key-C,Noise sigma=3,0,0
+black_square,LSB,key-C,Noise sigma=8,0,0
+black_square,LSB,key-C,Resize 0.5x round trip,0,0
+black_square,LSB,key-C,Median 3x3,0,0
+black_square,LSB,key-C,Gaussian blur r=1,0,1
+black_square,LSB,key-C,Brightness +20,0,0
+black_square,LSB,key-C,Contrast x0.9,0,0
+black_square,LSB,key-C,Blank 25% area,0,1
+black_square,LSB,key-C,Resize 0.75x + JPEG 75,0,0
+black_square,LSB,key-C,Crop 5% border,0,0
+black_square,DCT,key-A,none,1,1
+black_square,DCT,key-A,JPEG q=90,1,1
+black_square,DCT,key-A,JPEG q=75,1,1
+black_square,DCT,key-A,JPEG q=50,1,1
+black_square,DCT,key-A,Noise sigma=3,1,1
+black_square,DCT,key-A,Noise sigma=8,1,1
+black_square,DCT,key-A,Resize 0.5x round trip,1,1
+black_square,DCT,key-A,Median 3x3,1,1
+black_square,DCT,key-A,Gaussian blur r=1,1,1
+black_square,DCT,key-A,Brightness +20,1,1
+black_square,DCT,key-A,Contrast x0.9,1,1
+black_square,DCT,key-A,Blank 25% area,1,1
+black_square,DCT,key-A,Resize 0.75x + JPEG 75,1,1
+black_square,DCT,key-A,Crop 5% border,0,0
+black_square,DCT,key-B,none,1,1
+black_square,DCT,key-B,JPEG q=90,1,1
+black_square,DCT,key-B,JPEG q=75,1,1
+black_square,DCT,key-B,JPEG q=50,1,1
+black_square,DCT,key-B,Noise sigma=3,1,1
+black_square,DCT,key-B,Noise sigma=8,1,1
+black_square,DCT,key-B,Resize 0.5x round trip,1,1
+black_square,DCT,key-B,Median 3x3,1,1
+black_square,DCT,key-B,Gaussian blur r=1,1,1
+black_square,DCT,key-B,Brightness +20,1,1
+black_square,DCT,key-B,Contrast x0.9,1,1
+black_square,DCT,key-B,Blank 25% area,1,1
+black_square,DCT,key-B,Resize 0.75x + JPEG 75,1,1
+black_square,DCT,key-B,Crop 5% border,0,0
+black_square,DCT,key-C,none,1,1
+black_square,DCT,key-C,JPEG q=90,1,1
+black_square,DCT,key-C,JPEG q=75,1,1
+black_square,DCT,key-C,JPEG q=50,1,1
+black_square,DCT,key-C,Noise sigma=3,1,1
+black_square,DCT,key-C,Noise sigma=8,1,1
+black_square,DCT,key-C,Resize 0.5x round trip,1,1
+black_square,DCT,key-C,Median 3x3,1,1
+black_square,DCT,key-C,Gaussian blur r=1,1,1
+black_square,DCT,key-C,Brightness +20,1,1
+black_square,DCT,key-C,Contrast x0.9,1,1
+black_square,DCT,key-C,Blank 25% area,1,1
+black_square,DCT,key-C,Resize 0.75x + JPEG 75,1,1
+black_square,DCT,key-C,Crop 5% border,0,0
+black_square,DWT,key-A,none,1,1
+black_square,DWT,key-A,JPEG q=90,1,1
+black_square,DWT,key-A,JPEG q=75,1,1
+black_square,DWT,key-A,JPEG q=50,1,1
+black_square,DWT,key-A,Noise sigma=3,1,1
+black_square,DWT,key-A,Noise sigma=8,1,1
+black_square,DWT,key-A,Resize 0.5x round trip,1,1
+black_square,DWT,key-A,Median 3x3,1,1
+black_square,DWT,key-A,Gaussian blur r=1,1,1
+black_square,DWT,key-A,Brightness +20,1,1
+black_square,DWT,key-A,Contrast x0.9,1,1
+black_square,DWT,key-A,Blank 25% area,1,1
+black_square,DWT,key-A,Resize 0.75x + JPEG 75,1,1
+black_square,DWT,key-A,Crop 5% border,0,0
+black_square,DWT,key-B,none,1,1
+black_square,DWT,key-B,JPEG q=90,1,1
+black_square,DWT,key-B,JPEG q=75,1,1
+black_square,DWT,key-B,JPEG q=50,1,1
+black_square,DWT,key-B,Noise sigma=3,1,1
+black_square,DWT,key-B,Noise sigma=8,1,1
+black_square,DWT,key-B,Resize 0.5x round trip,1,1
+black_square,DWT,key-B,Median 3x3,1,1
+black_square,DWT,key-B,Gaussian blur r=1,1,1
+black_square,DWT,key-B,Brightness +20,1,1
+black_square,DWT,key-B,Contrast x0.9,1,1
+black_square,DWT,key-B,Blank 25% area,1,1
+black_square,DWT,key-B,Resize 0.75x + JPEG 75,1,1
+black_square,DWT,key-B,Crop 5% border,0,0
+black_square,DWT,key-C,none,1,1
+black_square,DWT,key-C,JPEG q=90,1,1
+black_square,DWT,key-C,JPEG q=75,1,1
+black_square,DWT,key-C,JPEG q=50,1,1
+black_square,DWT,key-C,Noise sigma=3,1,1
+black_square,DWT,key-C,Noise sigma=8,1,1
+black_square,DWT,key-C,Resize 0.5x round trip,1,1
+black_square,DWT,key-C,Median 3x3,1,1
+black_square,DWT,key-C,Gaussian blur r=1,1,1
+black_square,DWT,key-C,Brightness +20,1,1
+black_square,DWT,key-C,Contrast x0.9,1,1
+black_square,DWT,key-C,Blank 25% area,1,1
+black_square,DWT,key-C,Resize 0.75x + JPEG 75,1,1
+black_square,DWT,key-C,Crop 5% border,0,0

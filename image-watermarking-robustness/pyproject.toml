@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stegmark"
+version = "1.0.0"
+description = "Hide text in images with LSB, DCT or DWT; robust to JPEG, noise and resizing"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Karthikey Nori" }]
+license = { text = "MIT" }
+dependencies = ["numpy", "scipy", "pillow", "PyWavelets", "reedsolo", "scikit-image", "matplotlib", "cryptography"]
+
+[project.scripts]
+stegmark = "stegmark.cli:main"
+
+[tool.setuptools]
+packages = ["stegmark"]

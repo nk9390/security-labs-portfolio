@@ -8,7 +8,7 @@ Hands-on lab work from my B.Tech in Computer Science (Information Security) at V
 | [Malware Analysis](malware-analysis/) | Static + dynamic analysis of Zeus, IOC extraction from public samples, ANY.RUN behaviour analysis, IDA and x64dbg reversing | REMnux, FLARE VM, VirusTotal, PeStudio, FLOSS, capa, Cutter, INetSim, Procmon, IDA Free, x64dbg |
 | [Penetration Testing](penetration-testing/) | Nmap scanning, Windows enumeration, MD5 cracking, ARP and DNS traffic analysis, blind SQL injection | Nmap, Kali Linux, Metasploitable2, Wireshark, Python, Burp-style web labs |
 | [Steganography / Watermarking](steganography-watermarking/) | Team course report on LSB, DCT and DWT data hiding | Python |
-| [Image Watermarking Robustness](image-watermarking-robustness/) | My own keyed LSB / DCT / DWT watermarking with Reed-Solomon, tested against JPEG, noise, resizing and filtering | Python, NumPy, SciPy, PyWavelets |
+| [Image Watermarking Robustness](image-watermarking-robustness/) | stegmark: working LSB / DCT / DWT tool that hides text in any image and recovers it after JPEG, noise and resizing; Reed-Solomon, AES-GCM, CLI, 56 tests, measured benchmark | Python, NumPy, SciPy, PyWavelets |
 
 ## Notes
 - All work was done in isolated lab VMs against intentionally vulnerable or provided targets, for educational purposes only.

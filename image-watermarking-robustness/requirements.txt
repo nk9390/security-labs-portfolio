@@ -6,3 +6,4 @@ PyWavelets
 reedsolo
 matplotlib
 pytest
+cryptography
