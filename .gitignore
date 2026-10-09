@@ -1,0 +1,7 @@
+# never commit live malware samples, disk images, or captures
+*.exe
+*.dll
+*.E01
+*.pcap
+*.pcapng
+*.zip
